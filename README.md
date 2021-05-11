@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdmiralAnne
-- 👀 I’m interested in Coding, development. 
+- 👀 I’m interested in Coding, Wed development. 
 - 🌱 I’m currently learning JavaScript, C++, Python.
 - 💞️ I’m looking to collaborate on webapps and sites
 - 📫 How to reach me: @marjijamir on Instagram.
