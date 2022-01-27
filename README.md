@@ -5,6 +5,7 @@
 - 📫 How to reach me: @marjijamir on Instagram.
 - Feel free to check out my Projects and You can contact me anytime through my socials. 
 - pew pewww pewwww
+- <i>This is italisized text</i>
 
 <!---
 AdmiralAnne/AdmiralAnne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
