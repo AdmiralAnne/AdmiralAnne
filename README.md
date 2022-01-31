@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdmiralAnne
+- 👋 Hi, I’m Marjiba Jamir
 - 👀 I’m interested in Coding, Web dev, app dev. 
 - 🌱 I’m currently learning JavaScript, C++, Python, Flutter.
 - 💞️ I’m looking to collaborate on webapps and sites
