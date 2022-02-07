@@ -1,3 +1,4 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdmiralAnne)](https://git.io/streak-stats)
 - 👋 Hi, I’m Marjiba Jamir
 - 👀 I’m interested in Coding, Web dev, app dev. 
 - 🌱 I’m currently learning JavaScript, C++, Python, Flutter.
