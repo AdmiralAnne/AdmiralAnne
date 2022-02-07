@@ -1,4 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdmiralAnne&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralAnne&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m Marjiba Jamir
 - 👀 I’m interested in Coding, Web dev, app dev. 
 - 🌱 I’m currently learning JavaScript, C++, Python, Flutter.
