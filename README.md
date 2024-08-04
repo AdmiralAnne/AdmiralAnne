@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdmiralAnne&theme=dark)](https://git.io/streak-stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdmiralAnne&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralAnne&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Marjiba's Github status](https://github-readme-stats.vercel.app/api?username=AdmiralAnne&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
