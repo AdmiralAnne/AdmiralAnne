@@ -3,6 +3,8 @@
 
 [![Marjiba's Github status](https://github-readme-stats.vercel.app/api?username=AdmiralAnne)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdmiralAnne)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Marjiba Jamir
 - 📫 How to reach me: <a href="https://www.instagram.com/marjijamir/?hl=en" target="_blank">@marjijamir</a> on <img height=50px width=50px src="https://img.icons8.com/plasticine/200/000000/instagram-new--v2.png"/>
 <!---
